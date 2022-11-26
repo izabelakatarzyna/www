@@ -1,0 +1,17 @@
+.container {
+  display: block;
+}
+.container .wrapper {
+  display: block;
+  width: auto;
+  height: 50px;
+}
+
+:root {
+  --kolor-seledynowy: rgb(58, 203, 255);
+}
+
+.header {
+  --kolor-ciemny-czerwony: rgb(97, 2, 1);
+  color: var(--kolor-ciemny-czerwony);
+}/*# sourceMappingURL=style.css.map */
